@@ -16,7 +16,7 @@ I'll send you a video on how to set it up, and if problems occurs, You'll surely
 ## GUI Screenshot
 ![Main GUI Screenshot](https://imgur.com/wU1PZfT.png)
 
-> Main Gui Screenshot🛠️
+> Facebook Fetch Members Gui Screenshot🛠️
 
 ![Settings GUI Screenshot](https://i.imgur.com/VWbr2UF.png)
 
