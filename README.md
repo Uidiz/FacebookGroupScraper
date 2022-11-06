@@ -12,7 +12,7 @@ I'll send you a video on how to set it up, and if problems occurs, You'll surely
  - Automatically Switch Group when is done with the one before
 
 
-## GUI Screenshot🖼
+## GUI Screenshot
 ![Main GUI Screenshot](https://imgur.com/wU1PZfT.png)
 
 > Main Gui Screenshot🛠️
