@@ -10,6 +10,7 @@ I'll send you a video on how to set it up, and if problems occurs, You'll surely
 
  - Automatically Detects when an account used for fetching members has been banned, and switches with another (If Present)
  - Automatically Switch Group when is done with the one before
+ - Scrapes Name, Facebook Url, Profile ID of each members
 
 
 ## GUI Screenshot
@@ -26,4 +27,4 @@ The developer of this software won't be responsible for any misuse of data colle
 
 ## For more information, you can contact me here📟:
 
- - Discord: NonSon0Italian0#6450
+ - **Discord:** NonSon0Italian0#6450
