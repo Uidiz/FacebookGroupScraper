@@ -24,3 +24,6 @@ I'll send you a video on how to set it up, and if problems occurs, You'll surely
 ![Settings GUI Screenshot](https://i.imgur.com/VWbr2UF.png)
 
 > Settings GUI Screenshot
+
+## Disclaimer
+The developer of this software won't be responsible for any misuse of data collected using this tool.
