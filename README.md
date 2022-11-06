@@ -17,5 +17,5 @@ I'll send you a video on how to set it up, and if problems occurs, You'll surely
  
 
 ## GUI Screenshot
-![Main GUI Screenshot](https://imgur.com/wU1PZfT)
-![Settings GUI Screenshot](https://imgur.com/VWbr2UF)
+![Main GUI Screenshot](https://i.imgur.com/wU1PZfT.png)
+![Settings GUI Screenshot](https://i.imgur.com/VWbr2UF.png)
