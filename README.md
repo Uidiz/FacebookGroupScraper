@@ -1,7 +1,7 @@
 # FacebookGroupScraper
 Facebook Group Scraper Is an application (Both For **Mac** and **Windows**) written in python with a simple and user-friendly GUI, that allows you to get an excel file containing all the members of a group, together with their information, (Name, Profile ID, Profile Url)
 
-## Interested? [Buy Now](https://github.com/Uidiz/FacebookGroupScraper/blob/main/README.md#for-more-information-you-can-contact-me-here)!
+## Interested? [Buy Now](https://github.com/Uidiz/FacebookGroupScraper/blob/main/README.md#for-more-information-you-can-contact-me-here)!💳
 **Only 120$!**
 
 I'll send you a video on how to set it up, and if problems occurs, You'll surely get immediate support!
